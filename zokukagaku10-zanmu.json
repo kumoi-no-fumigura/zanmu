@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/zanmu",
  "yomi": "ざんむ",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "江戸後期",
+  "author": "高橋残夢（1775〜1851）",
+  "desc": "香川景樹の門人高橋残夢の家集。冒頭の文で、多くの子を失った悲しみと、60歳近くになって「残夢」と名のった由来を述べる。"
+ },
  "editions": [
   {
    "pid": "993388",
